@@ -8,11 +8,11 @@ export default function Home() {
     <div>
       <Head>
         <title>{PAGE_TITLE}</title>
-        <link rel="icon" href="/mjn-logo.ico" />
+        <link rel="icon" href="/mjn-logo.png" />
       </Head>
       <header className="flex space-between align-center">
-        <Image
-          src="/mjn-logo.png"
+        <img
+          src="./mjn-logo.png"
           alt="Logo Miasto Jest Nasze"
           width={58}
           height={48}
