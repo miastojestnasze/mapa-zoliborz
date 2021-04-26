@@ -22,7 +22,7 @@ export default function Home() {
       </header>
       <section className="map-container">
         <iframe
-          src="https://www.google.com/maps/d/embed?mid=1JKR7Iz-oSMyk5Amxh2YpHeDZA_LS0eQY"
+          src="https://www.google.com/maps/d/embed?mid=1JKR7Iz-oSMyk5Amxh2YpHeDZA_LS0eQY&ll=52.268820, 20.986085&z=14"
           width="100%"
           height="100%"
         ></iframe>
